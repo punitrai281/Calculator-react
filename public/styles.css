@@ -3,12 +3,17 @@ body {
   position: relative;
   height: 100vh;
   background-image: linear-gradient(to right, #0a97b0, #1b6ca8);
+  text-align: center;
+}
+.heading {
+  font-size: 2rem;
+  color: #fff;
 }
 #root {
   border-radius: 10px;
   background-color: #e4e4e4;
   position: relative;
-  margin: 100px auto;
+  margin: 20px auto;
   height: 550px;
   width: 350px;
   box-shadow: 0 0 8px black;
